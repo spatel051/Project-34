@@ -85,7 +85,7 @@ function draw(){
     box25.display();
     box26.display();
     hero.display();
-    link.display();
+    //link.display();
 }
 
 function mouseDragged(){
